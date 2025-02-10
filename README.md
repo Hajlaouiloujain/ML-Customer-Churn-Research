@@ -28,8 +28,8 @@ We have deployed a **Streamlit web app** that allows users to predict customer c
 First, install the required dependencies:  
 ```sh
 pip install -r requirements.txt
+```
 
 ### **🚀 2. Run the Streamlit App**  
-First, install the required dependencies:  
 ```sh
 streamlit run app.py
